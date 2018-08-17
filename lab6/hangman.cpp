@@ -101,4 +101,3 @@ int processGuess(char* word, const char* targetWord, char guess)
 
 	return process;
 }
-
